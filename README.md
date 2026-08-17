@@ -1,7 +1,7 @@
 # LED BLINKING USING ARDUINO AND FLASHING-OF-LEDS-WITH-LPC-1768
 
 # AIM: 
-   To interface and toggle the led with ARM LPC 1768 microprocessor           
+   To interface and toggle the led with ARM LPC 1768 microprocessor and Led blinking using Arduino          
            
 # COMPONENTS REQUIRED:
 ##  HARDWARE:
